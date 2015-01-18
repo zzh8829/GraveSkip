@@ -10,6 +10,7 @@ To type "\`" character, use "alt + \`" nstead.
 Example
 ---
 string: `"hello[Right Arrow]"` -> `"hello[Grave]"`
+
 semicolon: `{1,2,3[Right Arrow]};` -> `{1,2,3[Grave]};`
 
 Demo
