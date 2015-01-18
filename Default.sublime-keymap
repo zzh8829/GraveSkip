@@ -1,0 +1,4 @@
+[
+    {"keys": ["alt+`"], "command": "insert", "args": {"characters": "`"}},
+	{"keys": ["`"], "command": "move", "args": {"by": "characters", "forward": true}}
+]
