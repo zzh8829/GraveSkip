@@ -1,11 +1,11 @@
 # GraveSkip
-Skip a character in sublime text with Grave(`) key
+Skip a character in sublime text with grave (`) key
 
 Usage
 ---
 Type ` to skip to next character.
 
-To type "\`" character, use "alt + \`" nstead.
+To type "\`" character, use "alt + \`" instead.
 
 Example
 ---
