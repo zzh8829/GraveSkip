@@ -15,4 +15,4 @@ semicolon: `{1,2,3[Right Arrow]};` -> `{1,2,3[Grave]};`
 
 Demo
 ---
-![demo](http://zihao.me/projects/graveskip/demo.gif)
+![demo](https://raw.githubusercontent.com/zzh8829/GraveSkip/master/demo.gif)
